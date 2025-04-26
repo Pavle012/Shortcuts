@@ -1,36 +1,35 @@
 # Project Name
 
-Here are some AutoHotkey scripts that can be useful! There are both standalone versions and installers. 
+A collection of useful AutoHotkey scripts! Includes both standalone versions and installers.
 
 ## Download
 
-Grab the latest release [here](https://github.com/Pavle012/Shortcuts/releases/latest).
+Grab the latest release from the [Releases Page](https://github.com/Pavle012/Shortcuts/releases/latest).
 
 ## How to Use
-### First way (Reccomended)
-1. Download the `.exe` installer file from the [Releases](https://github.com/Pavle012/Shortcuts/releases/latest) page. 
-2. Open the `.exe` and install
 
-### Second way (Standalone, requires AutoHotkey)
+### Option 1: Installer (Recommended)
+1. Download the `.exe` installer file from the [Releases Page](https://github.com/Pavle012/Shortcuts/releases/latest).
+2. Run the `.exe` file and follow the installation instructions.
 
-1. Download the `.ahk` file from the [Releases](https://github.com/Pavle012/Shortcuts/releases/latest) page.
-2. Make sure you have [AutoHotkey](https://www.autohotkey.com/) installed.
+### Option 2: Standalone (Requires AutoHotkey)
+1. Download the `.ahk` file from the [Releases Page](https://github.com/Pavle012/Shortcuts/releases/latest).
+2. Install [AutoHotkey](https://www.autohotkey.com/) if you haven't already.
 3. Double-click the `.ahk` file to run it.
 
-### Second way (Standalone, requires AutoHotkey)
-
-1. Download the standalone `.exe` file from the [Releases](https://github.com/Pavle012/Shortcuts/releases/latest) page.
-2. Place the `.exe` wherever you want. 
-3. Open the file and that's it! 
+### Option 3: Standalone (No AutoHotkey Required)
+1. Download the standalone `.exe` file from the [Releases Page](https://github.com/Pavle012/Shortcuts/releases/latest).
+2. Place the `.exe` file in your desired location.
+3. Run the file—no additional setup required!
 
 ## Features
 
-- Automatic perm deletion of a file / mail etc.
+- **Automatic Permanent Deletion**: Quickly delete files, emails, etc., with the insert key without sending them to the recycle bin.
 
 ## License
 
-This project is licensed under the MIT licence.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by Pavle with help of Github Copilot. 
+Made with ❤️ by Pavle, with the help of GitHub Copilot.
