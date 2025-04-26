@@ -1,4 +1,4 @@
-# Project Name
+# Autohotkey scripts / shortcuts
 
 A collection of useful AutoHotkey scripts! Includes both standalone versions and installers.
 
