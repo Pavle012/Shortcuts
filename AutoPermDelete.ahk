@@ -3,4 +3,4 @@
 
 Insert:: (Send("+{Del}"), Sleep(50), Send("{Enter}"))
 
-;; This script will delete the selected file and then press Enter to confirm the deletion.
+;; This script will permanently delete the selected file / email and then press Enter to confirm the deletion.
